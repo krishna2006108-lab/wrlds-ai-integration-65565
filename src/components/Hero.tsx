@@ -44,7 +44,7 @@ const Hero = () => {
         <div className="absolute inset-0 bg-black w-full">
           <img 
             src="/lovable-uploads/4bfa0d71-3ed2-4693-90b6-35142468907f.png" 
-            alt="WRLDS Technologies Connected People" 
+            alt="Zarvoxa Connected People"
             className={`w-full h-full object-cover opacity-70 grayscale ${isMobile ? 'object-right' : 'object-center'}`} 
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/60 to-white"></div>
